@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "built",
+        "allowJs": true,
+        "target": "ESnext",
+        "module": "CommonJS",
+        "sourceMap": true
+    },
+    "include": [
+        "./src/*",
+        "./index.ts"
+    ]
+}
